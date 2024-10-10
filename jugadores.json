@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "nombre": "Lionel",
+      "apellido": "Messi",
+      "posición": "Centro campista",
+      "equipo": "Inter Miami CF",
+      "goles": 841,
+      "asistencias": 375
+    },
+    {
+      "id": 2,
+      "nombre": "Kevin",
+      "apellido": "De Bruyne",
+      "posición": "Centro campista",
+      "equipo": "Manchester City",
+      "goles": 154,
+      "asistencias": 239
+    },
+    {
+      "id": 3,
+      "nombre": "Robert",
+      "apellido": "Lewandowski",
+      "posición": "Delantero centro",
+      "equipo": "Barcelona",
+      "goles": 580,
+      "asistencias": 118
+    },
+    {
+        "id": 4,
+        "nombre": "Ronaldo",
+        "apellido": "de Assis Moreira",
+        "posición": "Centro campista",
+        "equipo": "Barcelona",
+        "goles": 230,
+        "asistencias": 193
+      }
+    
+  ]

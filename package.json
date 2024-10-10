@@ -1,0 +1,16 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Juliana Cardenas Gil",
+  "license": "ISC",
+  "description": "Gestionar jugadores de futbol",
+  "dependencies": {
+    "express": "^4.21.1",
+    "joi": "^17.13.3",
+    "pdfmake": "^0.2.14"
+  }
+}
